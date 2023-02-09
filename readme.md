@@ -12,6 +12,9 @@ To run this project, please follow those instructions
 
 Clone this repository:
 
+```text
+   https://github.com/Chekroud/bank-account.git
+```
 
 Then open the project with the IDE of your choice, Right click on the main class named BankAccountApplication, and then press "run Application".
 
